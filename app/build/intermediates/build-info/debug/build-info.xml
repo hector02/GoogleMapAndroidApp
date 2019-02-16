@@ -2,107 +2,112 @@
 <instant-run
     abi="x86"
     api-level="27"
-    build-mode="HOT_WARM"
+    build-mode="FULL"
     density="420dpi"
     format="10"
+    ir-eligibility="CLASS_ADDED"
     plugin-version="3.3.0"
-    timestamp="1549800468753"
-    token="6652454330388201591"
-    verifier="COMPATIBLE" >
+    timestamp="1550308165948"
+    token="-3168461754059426146"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="4488" />
+        duration="8818" />
     <task
         name="instant-run-dex"
-        duration="58" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="264" />
+        duration="582" />
     <task
         name="verifier"
-        duration="58" />
+        duration="1069" />
 
     <artifact
-        location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
+        location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1549794645513"
-        verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1549800080081"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1550308165948"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1549800257579"
-        verifier="COMPATIBLE" >
         <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\builds\debug\1549800257579\classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1549800418704"
-        verifier="COMPATIBLE" >
+            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
         <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\builds\debug\1549800418704\classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1549800468753"
-        verifier="COMPATIBLE" >
+            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
         <artifact
-            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapsGooglePlaces\app\build\intermediates\reload-dex\debug\classes.dex"
-            type="RELOAD_DEX" />
+            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\ddangi\AndroidStudioProjects\GoogleMapNilesh\GoogleMapAndroidApp\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

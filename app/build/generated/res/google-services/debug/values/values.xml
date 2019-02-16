@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">860438436476-j7tpptchrvgvoqho91kqnojvmg0v8gug.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mapandroidapp-1a62a.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">860438436476</string>
+    <string name="google_api_key" translatable="false">AIzaSyA7nv7EpfSLBSqo3KdP7H62lKwXs2GxDm0</string>
+    <string name="google_app_id" translatable="false">1:860438436476:android:0fbce810b61c3f01</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA7nv7EpfSLBSqo3KdP7H62lKwXs2GxDm0</string>
+    <string name="google_storage_bucket" translatable="false">mapandroidapp-1a62a.appspot.com</string>
+    <string name="project_id" translatable="false">mapandroidapp-1a62a</string>
+</resources>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ddangi\\AndroidStudioProjects\\GoogleMapsGooglePlaces\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+            "outputFile": "C:\\Users\\ddangi\\AndroidStudioProjects\\GoogleMapNilesh\\GoogleMapAndroidApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ddangi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\b184b0a8fb6297cef6011265c98ca42e\\res\\values-en-rCA\\values.xml",
+                    "source": "C:\\Users\\ddangi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-11.4.0.aar\\b3081e7f8c53188391bede80d55e8aa3\\res\\values-en-rCA\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
