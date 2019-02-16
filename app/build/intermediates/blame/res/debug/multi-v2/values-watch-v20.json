@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ddangi\\AndroidStudioProjects\\GoogleMapsGooglePlaces\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "C:\\Users\\ddangi\\AndroidStudioProjects\\GoogleMapNilesh\\GoogleMapAndroidApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ddangi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.4.0.aar\\a03e54f096313c683ef9fe05c6a1f839\\res\\values-watch-v20\\values.xml",
+                    "source": "C:\\Users\\ddangi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.4.0.aar\\fccb03e3addd1feb7d51d097fa65e69f\\res\\values-watch-v20\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",
